@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lect_Explicit</string>
+    <string name="button1">Sample</string>
+    <string name="button3">ListView</string>
+    <string name="textView">First Activity</string>
+    <string name="button">First Button</string>
+</resources>
